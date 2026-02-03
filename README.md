@@ -11,4 +11,4 @@ Many novice plant keepers often encounter these problems:
 This project aims to transform 'plant maintenance' into a process that is trackable, reminder-driven, and reviewable: 
 - Record the changes through photos and logs.
 - Store the data in the cloud for easy cross-device synchronization and long-term accumulation.
-- Use statistics and reminders to make it easier for users to establish patterns.
+- Use statistics and reminders to make it easier for users to establish patterns
